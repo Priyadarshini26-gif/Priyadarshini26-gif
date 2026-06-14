@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello👋
 
 I'm Priyadarshini, a Computer Science student who enjoys learning new technologies and building projects.
 
