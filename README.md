@@ -18,8 +18,4 @@
 * Data Structures & Algorithms
 * Building Practical Projects
 
-## Connect With Me
-
-* LinkedIn: [LinkedIn](https://www.linkedin.com/in/b-priyadarshini-b02b9a324/)
-* Email: priyadarshinib416@gmail.com
 
