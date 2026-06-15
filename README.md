@@ -1,7 +1,25 @@
-## Hello👋
+# Hi, I'm Priyadarshini 👋
 
-I'm Priyadarshini, a Computer Science student who enjoys learning new technologies and building projects.
+🎓 Third-year Computer Science student
 
-This is where I document what I'm learning, experiment with ideas, and share projects that interest me.
+💻 Interested in Machine Learning, Deep Learning, and Full-Stack Development
 
-Always learning. Always building.
+📚 Currently learning and building projects to strengthen my skills in software development and AI
+
+## Projects
+
+* Machine Learning & Deep Learning projects
+* MERN Stack applications
+
+## Currently Exploring
+
+* Machine Learning & Computer Vision
+* Full-Stack Development
+* Data Structures & Algorithms
+* Building Practical Projects
+
+## Connect With Me
+
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/b-priyadarshini-b02b9a324/)
+* Email: priyadarshinib416@gmail.com
+
