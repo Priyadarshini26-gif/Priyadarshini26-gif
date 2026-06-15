@@ -13,8 +13,7 @@
 
 ## Currently Exploring
 
-* Machine Learning & Computer Vision
-* Full-Stack Development
+* Machine Learning
 * Data Structures & Algorithms
 * Building Practical Projects
 
